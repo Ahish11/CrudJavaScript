@@ -1,2 +1,2 @@
 # CrudJavaScript
- add,remove,update,delete using javascript
+ add,remove,update,delete Application using javascript
